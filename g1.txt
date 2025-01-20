@@ -1,1 +1,0 @@
-This is for using the git init command and creating local repos and then pushing them.
